@@ -37,5 +37,5 @@ dependencies:
   - opencv
   - h5py
   - pillow
-prefix: /anaconda2/envs/mne3
+prefix: /anaconda3/envs/mne3
 
