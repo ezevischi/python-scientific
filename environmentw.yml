@@ -23,7 +23,6 @@ dependencies:
   - python[version='<3.7']
   - matplotlib
   - joblib
-  - umap-learn
   - scipy
   - vega_datasets
   - pyface
